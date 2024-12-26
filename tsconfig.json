@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "module": "CommonJS",
+      "target": "ES2017",
+      "strict": false,
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "skipLibCheck": true,
+      "outDir": "./dist",
+      "sourceMap": true
+    },
+    "include": ["src"],
+    "exclude": ["node_modules"]
+  }
